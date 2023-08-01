@@ -1,0 +1,6 @@
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\bin\Debug\AutoCad2024SaveTest.dll
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\bin\Debug\AutoCad2024SaveTest.pdb
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\obj\Debug\AutoCad2024SaveTest.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\obj\Debug\AutoCad2024SaveTest.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\obj\Debug\AutoCad2024SaveTest.dll
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2024SaveTest\obj\Debug\AutoCad2024SaveTest.pdb
