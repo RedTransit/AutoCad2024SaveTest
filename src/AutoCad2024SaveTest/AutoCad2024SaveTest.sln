@@ -9,6 +9,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AutoCADCore", "..\AutoCADCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCad2023SaveTest", "..\AutoCad2023SaveTest\AutoCad2023SaveTest.csproj", "{09C4F33D-8DED-4C2A-99EA-6CADD26A2115}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoCad2025SaveTestCore", "..\AutoCad2025SaveTestCore\AutoCad2025SaveTestCore.csproj", "{CE23FEB9-7850-419C-91C4-9A3FF575833C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{09C4F33D-8DED-4C2A-99EA-6CADD26A2115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09C4F33D-8DED-4C2A-99EA-6CADD26A2115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C4F33D-8DED-4C2A-99EA-6CADD26A2115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE23FEB9-7850-419C-91C4-9A3FF575833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE23FEB9-7850-419C-91C4-9A3FF575833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE23FEB9-7850-419C-91C4-9A3FF575833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE23FEB9-7850-419C-91C4-9A3FF575833C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -31,7 +37,9 @@ Global
 		SolutionGuid = {93826EA5-0A83-4A3E-B2E2-F505ACF45A23}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\AutoCADCore\AutoCADCore.projitems*{09c4f33d-8ded-4c2a-99ea-6cadd26a2115}*SharedItemsImports = 4
 		..\AutoCADCore\AutoCADCore.projitems*{2e713e6d-2081-433f-b881-7c0a1ea4eeb9}*SharedItemsImports = 4
 		..\AutoCADCore\AutoCADCore.projitems*{6f7c7229-860d-4e60-b64b-ad6dcbf7ca63}*SharedItemsImports = 13
+		..\AutoCADCore\AutoCADCore.projitems*{ce23feb9-7850-419c-91c4-9a3ff575833c}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\bin\Debug\net8.0\AutoCad2025SaveTestCore.deps.json
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\bin\Debug\net8.0\AutoCad2025SaveTestCore.dll
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\bin\Debug\net8.0\AutoCad2025SaveTestCore.pdb
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.sourcelink.json
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.dll
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\refint\AutoCad2025SaveTestCore.dll
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\AutoCad2025SaveTestCore.pdb
+C:\Users\steve\Documents\GitHub\AutoCad2024SaveTest\src\AutoCad2025SaveTestCore\obj\Debug\net8.0\ref\AutoCad2025SaveTestCore.dll

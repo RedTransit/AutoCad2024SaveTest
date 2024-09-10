@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AutoCad2024SaveTest
+namespace AutoCadCore
 {
     internal class FileTasks
     {

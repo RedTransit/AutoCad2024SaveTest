@@ -12,5 +12,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)Commands.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DrawingPropFunctions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FileTasks.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Globals.cs" />
   </ItemGroup>
 </Project>

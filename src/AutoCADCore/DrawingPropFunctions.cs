@@ -2,12 +2,14 @@
 using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.EditorInput;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoCADCore;
 
-namespace AutoCad2024SaveTest
+namespace AutoCadCore
 {
     internal class DrawingPropFunctions
     {
@@ -25,6 +27,34 @@ namespace AutoCad2024SaveTest
                 databaseSummaryInfoBuilder.CustomPropertyTable.Add("testId", testId);
                 databaseSummaryInfoBuilder.CustomPropertyTable.Add("testingId", testingId);
                 AcDatabase.SummaryInfo = databaseSummaryInfoBuilder.ToDatabaseSummaryInfo();
+            }
+        }
+
+        public static bool CheckIfFileHasProperties()
+        {
+            DatabaseSummaryInfoBuilder builder = new DatabaseSummaryInfoBuilder(Globals.AcDatabase.SummaryInfo);
+            IDictionary acDic = builder.CustomPropertyTable;
+            if (acDic.Contains("testNm") == true && acDic.Contains("testId") && acDic.Contains("testingId"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public static bool CheckIfFileHasProperties(Database db)
+        {
+            DatabaseSummaryInfoBuilder builder = new DatabaseSummaryInfoBuilder(db.SummaryInfo);
+            IDictionary acDic = builder.CustomPropertyTable;
+            if (acDic.Contains("testNm") == true && acDic.Contains("testId") && acDic.Contains("testingId"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
     }

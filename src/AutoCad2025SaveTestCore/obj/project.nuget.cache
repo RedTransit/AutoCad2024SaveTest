@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "My6GdBmRDsY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steve\\Documents\\GitHub\\AutoCad2024SaveTest\\src\\AutoCad2025SaveTestCore\\AutoCad2025SaveTestCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\autocad.net\\25.0.1\\autocad.net.25.0.1.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\autocad.net.core\\25.0.0\\autocad.net.core.25.0.0.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\autocad.net.model\\25.0.0\\autocad.net.model.25.0.0.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
